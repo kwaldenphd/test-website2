@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'I'm testing new stuff on this page.'
+description: 'testing new stuff on this page.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
